@@ -15,7 +15,7 @@
     "lint:fix": "npm-run-all eslint:fix check-types format"
   },
   "dependencies": {
-    "@line/bot-sdk": "7.2.0",
+    "@line/bot-sdk": "7.7.0",
     "dotenv": "8.2.0",
     "moment-timezone": "0.5.33"
   },
